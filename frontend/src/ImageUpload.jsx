@@ -7,13 +7,13 @@ export function PlaceholderImage({ size }) {
     <div
       style={{
         width: size,
-        "aspect-ratio": "1 / 1",
-        "background-color": "#eeeeee",
+        "aspectRatio": "1 / 1",
+        "backgroundColor": "#eeeeee",
         display: "flex",
-        "align-items": "center",
-        "justify-content": "center",
+        "alignItems": "center",
+        "justifyContent": "center",
         padding: "20px",
-        "font-size": "small",
+        "fontSize": "small",
       }}
       className="m-1"
     >
